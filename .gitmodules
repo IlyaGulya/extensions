@@ -474,6 +474,10 @@
 	path = extensions/bend
 	url = https://github.com/mrpedrobraga/zed-bend.git
 
+[submodule "extensions/bend2"]
+	path = extensions/bend2
+	url = https://github.com/IlyaGulya/bend2-zed.git
+
 [submodule "extensions/bicep"]
 	path = extensions/bicep
 	url = https://github.com/oWretch/zed-extension-bicep.git

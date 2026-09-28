@@ -486,6 +486,10 @@ version = "0.0.1"
 submodule = "extensions/bend"
 version = "0.0.1"
 
+[bend2]
+submodule = "extensions/bend2"
+version = "0.1.2"
+
 [bicep]
 submodule = "extensions/bicep"
 version = "1.4.0"
